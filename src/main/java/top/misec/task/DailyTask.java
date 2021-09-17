@@ -28,7 +28,7 @@ public class DailyTask {
             new CoinAdd(),
             //new Silver2coin(),
             new LiveCheckin(),
-            new GiveGift(),
+            //new GiveGift(),
             new ChargeMe(),
             new GetVipPrivilege()
     );
